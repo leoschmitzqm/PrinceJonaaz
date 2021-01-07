@@ -1,6 +1,5 @@
 <div id="top"></div>
 
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -14,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/princejonaa/Beginner-Projects">
-    <img src="images/intervised.png" alt="Logo" width="80" height="80">
+    <img src="images/Intervised.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Beginner Projects</h3>
@@ -87,7 +86,7 @@ Hey! This is a few projects I made starting in November. I don't know where this
 <!-- Projects -->
 ## Projects
 
-Project 1: Dark Mode/ Light Mode Button
+Project 1: Dark Mode / Light Mode Button: Learning HTML, JS, Javascript. First project after doing Dash & using Mimo for 2-3 days.
 
 ### Prerequisites
 
@@ -104,7 +103,7 @@ Will be stated in the folder of each project made.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This is a simple Reference guide for all of my work as a student and maybe further. Feel free to use as you wish unless directly stated.
+This is a simple reference guide for all of my work as a student and maybe further. Feel free to use as you wish unless directly stated.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -114,8 +113,8 @@ This is a simple Reference guide for all of my work as a student and maybe furth
 ## Roadmap
 
 - [x] Project 1 
-- [] Project 2
-- [] Project 3
+- Project 2
+- Project 3
 
 See the [open issues](https://github.com/princejonaa/Beginner-Projects/issues) for a full list of proposed features (and known issues).
 
