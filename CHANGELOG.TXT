@@ -13,3 +13,6 @@
 
 ## V1.0.2
 - Fixed typos in Readme.md
+
+## v1.0.3
+- Added Test Nav Bar

@@ -1,12 +1,61 @@
-.button {
+button {
     background-color: #4CAF50;
     border: none;
     color: white;
     padding: 15px 32px;
-    text-align: center;
+    text-align: right;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+div {
+    text-align: center;
+    color: white;
+}
+
+#darkBtn { 
+    color: purple;
+
+}
+
+#lightBtn {
+    color: purple;
+}
+
+.navwrapper {
+    background-color: #333;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: block;
+    opacity: 0.9;
+
+}
+
+li {
+    float: left;
+    text-align: center;
+    padding: 10px;   
 }
