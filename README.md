@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/princejonaa/Beginner-Projects">
-    <img src="images/logo.png" alt="Logo" width="150" height="100">
+    <img src="images/logo.png" alt="Logo" width="300" height="100">
   </a>
 
 <h3 align="center">Beginner Projects</h3>
